@@ -1,3 +1,11 @@
+# Skincare in Cinema
+
+A site about iconic skincare moments in cinema and real celebrity routines.
+
+## Film Entries
+
+- [Breakfast at Tiffany’s](entries/breakfast-at-tiffanys.md)
+- [Black Swan](entries/black-swan.md)
 # Skincare in Cinema 🎬✨
 
 Welcome! Explore iconic beauty and self-care moments from film—paired with real routines of movie stars and the best, handpicked Sephora products.
